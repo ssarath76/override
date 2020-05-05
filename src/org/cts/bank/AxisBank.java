@@ -9,6 +9,7 @@ public void deposit() {
 public void fixed() {
 	System.out.println("8%");
 }
+System.out.println("8%");
 public static void main(String[] args) {
 	AxisBank bank = new AxisBank();
 	bank.saving();
