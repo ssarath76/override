@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	bank.saving();
 	bank.deposit();
 	bank.fixed();
+	System.out.println("8%");	
 }
 }
