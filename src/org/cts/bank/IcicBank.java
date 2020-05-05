@@ -7,5 +7,6 @@ public class IcicBank {
 	public void deposit() {
 		System.out.println();
 	}
+	System.out.println();
 
 }
